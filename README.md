@@ -1,2 +1,1 @@
-# trex
-este es el jurgo de trex 
+# PROC9_P5Juego
